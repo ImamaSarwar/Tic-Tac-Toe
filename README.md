@@ -12,6 +12,8 @@ This is a console-based Tic Tac Toe game implemented in C++ at a Programming Fun
 - Real-time input validation and feedback
 - Clear and user-friendly board display
 - Handles both win and draw scenarios accurately
+## User Interface
+![UI](https://github.com/ImamaSarwar/Tic-Tac-Toe/raw/0014884b03d4b61205d77a00302c1983ff99ac81/UI.png)
 ## Getting Started
 - Clone or download the project.
 - Compile the code using any standard C++ compiler (like g++).
